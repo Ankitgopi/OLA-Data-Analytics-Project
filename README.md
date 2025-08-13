@@ -517,7 +517,6 @@ For any queries or feedback, feel free to reach out:
 
 - **Name**: Ankit Gopi Gahnoliya
 - **Email**: ankitg4402@gmail.com
-- **Portfolio**: [Ankit Gopi's Portfolio](https://google.com/)
 
 ## 🙌 Acknowledgments
 
